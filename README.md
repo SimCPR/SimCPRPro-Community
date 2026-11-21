@@ -4,6 +4,11 @@ Welcome to the official community space for **SimCPR PRO**, the CPR training, ex
 
 This is where you **report bugs**, **request features**, and **share feedback** to help shape the future of the app.
 
+<p>
+<a href="https://apps.apple.com/app/id6759217379"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
+<a href="https://play.google.com/store/apps/details?id=com.simcpr.pro"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="58"></a>
+</p>
+
 > 📚 **Looking for documentation?** → **[Read the SimCPR PRO Wiki](https://github.com/SimCPR/SimCPRPro-Community/wiki)**
 > Installation, getting started, training modes, scoring, certificates and credits, the FAQ, troubleshooting, and the full contribution guide all live there.
 
