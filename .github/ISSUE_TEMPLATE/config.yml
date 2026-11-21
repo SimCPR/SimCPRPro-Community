@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 SimCPR PRO Wiki
+    url: https://github.com/SimCPR/SimCPRPro-Community/wiki
+    about: Installation, user guide, FAQ and troubleshooting.
+  - name: 🛟 Product support (simcpr.com)
+    url: https://simcpr.com
+    about: Products, accounts and general support.
